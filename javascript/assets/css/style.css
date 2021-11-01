@@ -1,0 +1,13 @@
+
+/* login form */
+.login_box{
+    height: 500px;
+    width: 400px; 
+    background-color: #F7F7F7;
+    margin: auto;  
+    margin-top: 5%;
+    padding: 0px 30px;
+    border-radius: 8px;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 1px 2px 0 rgba(0, 0, 0, 0.19);
+}
+
